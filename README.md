@@ -4,19 +4,19 @@
 
 ---
 
-## 🔹 Funcionalidades
+## Funcionalidades
 
-- **Informações sobre sustentabilidade:** Preservação ambiental, economia de água e uso de energia renovável.
-- **Tecnologia no campo:** Demonstra como a inovação ajuda a aumentar a produtividade sem prejudicar a natureza.
-- **Contato:** Formas de comunicação para interessados no projeto.
-
----
-
-## 🔹 Tecnologias Utilizadas
-
-- **HTML5** para a estrutura do site
-- **CSS3** para o design e layout responsivo
+- Informações sobre sustentabilidade: Preservação ambiental, economia de água e uso de energia renovável.
+- Tecnologia no campo: Demonstra como a inovação ajuda a aumentar a produtividade sem prejudicar a natureza.
+- Contato: Formas de comunicação para interessados no projeto.
 
 ---
 
-## 🔹 Estrutura do Projeto
+## Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+
+---
+
+## Estrutura do Projeto
